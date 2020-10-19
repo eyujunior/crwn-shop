@@ -1,5 +1,5 @@
 import React from 'react';
-import HomePage from './components/HomePage/HomePage.component';
+import HomePage from './pages/HomePage/HomePage.component';
 import './App.css';
 
 function App() {
@@ -7,3 +7,4 @@ function App() {
 }
 
 export default App;
+ 
